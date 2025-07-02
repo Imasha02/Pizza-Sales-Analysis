@@ -60,7 +60,7 @@ This is a data analytics project focused on uncovering sales patterns, customer 
 ## 📦 Deliverables
 - ✅ Cleaned and merged dataset (`merged_pizza_data.csv`)
 - ✅ Jupyter Notebook / Colab Notebook with analysis (`pizza_sales_analysis.ipynb`)
-- ✅ Power BI Dashboard (optional)
+- ✅ Power BI Dashboard
 - ✅ Final report with business insights and recommendations
 
 ---
